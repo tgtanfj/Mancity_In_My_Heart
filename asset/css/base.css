@@ -1,0 +1,13 @@
+:root   {
+    --lightblue-color: #98c5e9;
+    --midiumblue-color: #6cafe0;
+    --darkblue-color: #00285e;
+    --black-color: #000;
+    --text-color:#333;
+    --border-color: #dbdbdb;
+    --star-gold-color: #FFCE3E;
+
+    --header-height: 120px;
+    --navbar-height: 34px;
+    --header-with-search-height: calc(var(--header-height) - var(--navbar-height));
+}
